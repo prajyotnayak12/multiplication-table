@@ -10,7 +10,7 @@ class MUL
         {
             for (int i = 1; i <= 20; ++i)
             {
-                Console.Write(n + " * " + i + " = " + n * i );
+                Console.Write(n + " * " + i + " = " + n * i + "\n" );
 
             }
         }
